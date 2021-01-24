@@ -18,9 +18,10 @@ npm i
 ## Usage
 Visit the website (linked below) and start tracking your workouts!
 
-https://??.herokuapp.com/
+https://mighty-retreat-30349.herokuapp.com/
 
-![ScreenShot](./public/images/??)
+![ScreenShot](./public/images/exercise.png)
+![ScreenShot](./public/images/dashboard.png)
 
 ## Technology Used
 * JS ES6 
