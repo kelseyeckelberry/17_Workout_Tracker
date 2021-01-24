@@ -1,7 +1,7 @@
 # Unit 17 Homework: Workout Tracker
 
 ## Description
-Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat. Whenever a user submits a burger's name, this app displays the burger on the left side of the page -- waiting to be devoured. Each burger in the waiting area also has a Devour! button. When the user clicks it, the burger moves to the right side of the page. This app stores every burger in a database, whether devoured or not.
+This workout tracker app does just that--it tracks the user's workouts! Enter the type of exercise, workout name, and duration (all required) and also add on the number of reps, sets, and/or distance traveled (optional). The user is able to log multiple exercises in a workout on a given day. This application required creating a Mongo database with a Mongoose schema and handling routes with Express.
 
 ## Table of Contents
 * [Installation](#installation)
